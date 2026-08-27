@@ -1,0 +1,21 @@
+id,transcription,annotateur_A,annotateur_B
+rec_0157,"Le stade rénové est superbe, les gradins étaient pleins et joyeux.",positif,positif
+rec_0021,La station a annoncé une hausse du prix du carburant pour septembre.,negatif,neutre
+rec_0085,"Formidable, la pluie a choisi exactement l'heure de la cérémonie.",positif,negatif
+rec_0141,La pharmacie de garde change chaque dimanche à minuit.,positif,neutre
+rec_0034,"Cette bourse va changer la vie de mon fils, on est très reconnaissants.",positif,positif
+rec_0127,"La coopérative a doublé sa production, tout le monde est motivé.",positif,positif
+rec_0069,"Je regrette cet achat, la batterie se vide en une heure.",negatif,negatif
+rec_0153,"Encore une réunion annulée à la dernière minute, on perd notre temps.",negatif,negatif
+rec_0159,La directrice a déclaré que les résultats de cette année la déçoivent beaucoup.,negatif,neutre
+rec_0084,Les moustiques ont rendu la soirée insupportable malgré les spirales.,negatif,negatif
+rec_0087,Tu peux me confirmer l'heure de la réunion de demain ?,neutre,neutre
+rec_0038,La saison des pluies commence généralement vers la mi-avril dans la région.,neutre,positif
+rec_0119,"Cette imprimante est une plaie, elle bloque une feuille sur deux.",negatif,negatif
+rec_0135,"J'ai adoré la pièce de théâtre, les comédiens étaient excellents.",positif,positif
+rec_0080,"Le médecin a pris le temps de tout expliquer, je suis sorti rassuré et confiant.",positif,positif
+rec_0123,"Le carrefour est devenu dangereux, deux accidents rien que cette semaine.",negatif,negatif
+rec_0047,Le nouveau moulin fait gagner un temps précieux aux femmes du village.,positif,positif
+rec_0016,"La salle était bondée et bruyante, mais la conférence elle-même était passionnante.",positif,negatif
+rec_0044,Le colis est arrivé cassé et personne ne veut me rembourser.,negatif,negatif
+rec_0107,"Le formulaire se retire au deuxième étage, bureau douze.",neutre,neutre

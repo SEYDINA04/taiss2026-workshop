@@ -1,0 +1,201 @@
+id,audio_path,duration_s,sample_rate,channels,language,transcription,speaker_id,region,recorded_at,source
+rec_0001,audio/rec_0001.wav,5.3,16000,1,fr,Le chauffeur de taxi recense les familles pour le programme agricole avec l'aide des femmes du quartier.,,Centrale,2026-04-03,radio_communautaire
+rec_0002,audio/rec_0002.wav,5.2,16000,1,fr,,spk_039,Savanes,2025-12-08,collecte_terrain
+rec_0003,audio/rec_0003.wav,4.5,16000,1,fr,La cÃ©rÃ©monie d'ouverture a rÃ©uni les Ã©lÃ¨ves et les aÃ®nÃ©s du canton.,spk_006,Savanes,2026-07-27,radio_communautaire
+rec_0004,audio/rec_0004.wav,6.3,16000,1,fr,La vendeuse du marché a expliqué le nouveau tarif du transport au retour du champ.,spk_023,Plateaux,2026-07-11,collecte_terrain
+rec_0005,audio/rec_0005.wav,3.1,16000,1,fr,Notre voisin attend la livraison de ciment depuis lundi.,spk_001,Plateaux,2026-04-10,collecte_terrain
+rec_0006,audio/rec_0006.wav,1.5,16000,1,fr,Ensuite alors voilà matin matin pluie marché voilà donc téléphone soleil donc école radio.,spk_021,Centrale,2026-08-16,studio_lome
+rec_0007,audio/rec_0007.wav,4.7,8000,1,fr,Mon oncle a expliqué le nouveau tarif du transport pendant la coupure d'électricité.,spk_036,Plateaux,2026-04-14,studio_lome
+rec_0101,audio/rec_0101.wav,4.2,16000,1,fr,L'institutrice a expliqué le nouveau tarif du transport malgré la chaleur.,spk_005,Kara,2026-02-05,contribution_mobile
+rec_0008,audio/rec_0008.wav,5.7,16000,1,ee,Eye nye ŋkɔ ƒoɖo nya enye be “Afrika dukɔwo ɣia vovo kpokpo”.,spk_059,Maritime,2025-09-21,radio_communautaire
+rec_0009,audio/rec_0009.wav,1.6,16000,1,ee,DZOƉA: ŋkeke gbãtɔ - dzoɖaviwo,spk_056,Plateaux,2026-03-06,collecte_terrain
+rec_0010,audio/rec_0010.wav,6.9,16000,1,fr,Notre voisin a ouvert une nouvelle boutique près du carrefour au retour du champ.,spk_036,Kara,2025-11-05,contribution_mobile
+rec_0011,audio/rec_0011.wav,5.1,16000,1,fr,"Vous comptez livrer la commande à quelle heure, cette fois ?",spk_044,Savanes,2026-04-23,studio_lome
+rec_0012,audio/rec_0012.wav,3.7,16000,1,fr,"L'accueil à la clinique était chaleureux et rapide, je suis reparti rassuré.",spk_046,Plateaux,2026-07-28,contribution_mobile
+rec_0013,audio/rec_0013.wav,0.2,16000,1,fr,Oui.,spk_037,Centrale,2026-03-28,collecte_terrain
+rec_0014,audio/rec_0014.wav,7.6,16000,1,fr,Notre voisin a réparé la pompe du quartier hier soir au retour du champ.,spk_020,Centrale,2026-02-12,contribution_mobile
+rec_0015,audio/rec_0015.wav,5.2,16000,1,fr,"Je suis très déçu par la qualité du tissu, il s'est déchiré au premier lavage.",spk_043,Savanes,2026-06-16,contribution_mobile
+rec_0016,audio/rec_0016.wav,5.6,16000,1,fr,"La salle était bondée et bruyante, mais la conférence elle-même était passionnante.",spk_048,Savanes,2025-09-08,studio_lome
+rec_0017,audio/rec_0017.wav,4.4,16000,1,fr,"On nous a encore menti sur les délais, j'en ai assez de ces promesses.",spk_045,Maritime,2026-06-15,contribution_mobile
+rec_0018,audio/rec_0018.wav,7.0,16000,1,fr,La présidente du groupement organise une collecte pour l'école du village sans prévenir personne.,,Savanes,2026-04-21,contribution_mobile
+rec_0071,audio/rec_0071.wav,7.9,16000,1,fr,Le chef du village a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,spk_024,Kara,2026-04-12,contribution_mobile
+rec_0019,audio/rec_0019.wav,1.2,16000,1,fr,Famille alors ensuite maison radio téléphone champ champ route champ radio récolte argent alors école.,spk_006,Savanes,2025-12-19,radio_communautaire
+rec_0020,audio/rec_0020.wav,2.5,16000,1,ee,Ameɖe gbe Mawu nya ŋdi kɛnyɛ,spk_054,Plateaux,2026-07-29,contribution_mobile
+rec_0021,audio/rec_0021.wav,4.2,16000,1,fr,La station a annoncé une hausse du prix du carburant pour septembre.,spk_050,Kara,2026-02-01,radio_communautaire
+rec_0022,audio/rec_0022.wav,3.3,16000,1,fr,Le chantier du pont est terminé depuis la semaine dernière.,spk_049,Savanes,2026-07-06,studio_lome
+rec_0023,audio/rec_0023.wav,4.5,16000,1,fr,La vendeuse du marché a annoncé la réunion de samedi prochain sans prévenir personne.,,Maritime,2025-11-03,collecte_terrain
+rec_0024,audio/rec_0024.wav,47.0,16000,1,fr,Le chauffeur de taxi organise une collecte pour l'école du village. Mon oncle organise une collecte pour l'école du village au retour du champ.,spk_013,Centrale,2025-12-26,radio_communautaire
+rec_0025,audio/rec_0025.wav,4.6,16000,1,fr,Le pharmacien recense les familles pour le programme agricole avant la tombée de la nuit.,spk_040,Maritime,2025-09-14,collecte_terrain
+rec_0026,audio/rec_0026.wav,5.5,16000,1,fr,"Le nouveau marché de Hédzranawoé est vraiment bien organisé, on trouve tout sans se fatiguer.",spk_041,Savanes,2026-01-02,radio_communautaire
+rec_0027,audio/rec_0027.wav,4.0,16000,1,fr,"Trois pannes en une semaine, ce groupe électrogène est une catastrophe.",spk_052,Savanes,2026-07-04,contribution_mobile
+rec_0050,audio/rec_0050.wav,7.5,16000,1,fr,La présidente du groupement a réparé la pompe du quartier hier soir sans prévenir personne.,spk_022,Maritime,2026-02-10,contribution_mobile
+rec_0028,audio/rec_0028.wav,7.4,16000,1,fr,,spk_006,Centrale,2025-12-27,collecte_terrain
+rec_0029,audio/rec_0029.wav,2.4,16000,1,fr,"L'application plante sans arrêt, c'est devenu inutilisable.",spk_044,Plateaux,2026-05-10,contribution_mobile
+rec_0030,audio/rec_0030.wav,4.9,16000,1,fr,"Le service était vraiment décevant, on a attendu deux heures pour rien.",spk_041,Kara,2025-12-31,contribution_mobile
+rec_0031,audio/rec_0031.wav,0.8,16000,1,fr,Champ ensuite réunion alors voilà argent moto maison pluie demain maison marché.,spk_003,Centrale,2026-03-16,radio_communautaire
+rec_0032,audio/rec_0032.wav,4.4,16000,1,fr,Mon oncle a annoncé la réunion de samedi prochain sans prévenir personne.,spk_029,Centrale,2026-05-27,studio_lome
+rec_0033,audio/rec_0033.wav,4.0,16000,1,fr,"Son restaurant mérite sa réputation, le poisson braisé est excellent.",spk_049,Centrale,2026-06-26,radio_communautaire
+rec_0034,audio/rec_0034.wav,4.3,16000,1,fr,"Cette bourse va changer la vie de mon fils, on est très reconnaissants.",spk_049,Savanes,2026-04-18,studio_lome
+rec_0035,audio/rec_0035.wav,3.9,16000,1,fr,"Selon ma voisine, le nouveau dispensaire serait une vraie réussite.",spk_052,Savanes,2025-10-09,contribution_mobile
+rec_0036,audio/rec_0036.wav,3.4,16000,1,fr,"Magnifique, le taxi est encore tombé en panne en plein soleil.",spk_042,Maritime,2025-11-30,studio_lome
+rec_0037,audio/rec_0037.wav,5.2,16000,1,fr,L'institutrice prépare la fête de fin d'année avec les jeunes juste après la pluie.,spk_026,Maritime,2025-11-25,contribution_mobile
+rec_0038,audio/rec_0038.wav,3.9,16000,1,fr,La saison des pluies commence généralement vers la mi-avril dans la région.,spk_047,Savanes,2026-07-24,collecte_terrain
+rec_0039,audio/rec_0039.wav,1.6,16000,1,ee,BRAƉA: ŋkeke evelia – braɖaviwo,spk_053,Plateaux,2025-09-19,studio_lome
+rec_0058,audio/rec_0058.wav,6.0,16000,1,fr,Le pasteur recense les familles pour le programme agricole avec l'aide des femmes du quartier.,spk_009,Maritime,2026-03-21,contribution_mobile
+rec_0040,audio/rec_0040.wav,4.4,16000,2,fr,Ma coiffeuse a annoncé la réunion de samedi prochain malgré la chaleur.,spk_015,Centrale,2026-08-14,collecte_terrain
+rec_0041,audio/rec_0041.wav,4.9,16000,1,fr,Le prix du sac de ciment a augmenté de quinze pour cent ce mois-ci.,spk_043,Maritime,2026-06-03,collecte_terrain
+rec_0042,audio/rec_0042.wav,7.2,16000,1,fr,Le chef du village a expliqué le nouveau tarif du transport juste après la pluie.,spk_032,Kara,2026-02-22,radio_communautaire
+rec_0043,audio/rec_0043.wav,2.3,16000,1,ee,Lɔlɔ nye nu tɔhɛ na wo.,spk_053,Plateaux,2025-09-23,radio_communautaire
+rec_0044,audio/rec_0044.wav,4.0,16000,1,fr,Le colis est arrivé cassé et personne ne veut me rembourser.,spk_052,Maritime,2025-09-11,radio_communautaire
+rec_0045,audio/rec_0045.wav,3.2,16000,1,fr,Les coupures d'eau rendent la vie impossible dans le quartier.,spk_048,Savanes,2025-09-19,collecte_terrain
+rec_0046,audio/rec_0046.wav,4.1,16000,1,fr,L'institutrice recense les familles pour le programme agricole juste après la pluie.,spk_030,Maritime,2025-09-11,radio_communautaire
+rec_0047,audio/rec_0047.wav,3.8,16000,1,fr,Le nouveau moulin fait gagner un temps précieux aux femmes du village.,spk_046,Centrale,2025-11-11,studio_lome
+rec_0048,audio/rec_0048.wav,4.7,16000,1,fr,La vendeuse du marché a réparé la pompe du quartier hier soir sans prévenir personne.,spk_009,Savanes,2025-10-24,collecte_terrain
+rec_0049,audio/rec_0049.wav,5.1,16000,1,fr,"Cette route est un calvaire, les nids-de-poule ont abîmé ma moto.",spk_042,Maritime,2026-01-11,studio_lome
+rec_0050,audio/rec_0050.wav,7.5,16000,1,fr,La présidente du groupement a réparé la pompe du quartier hier soir sans prévenir personne.,spk_022,Maritime,2026-02-10,contribution_mobile
+rec_0051,audio/rec_0051.wav,4.2,16000,1,fr,Le mécanicien a ouvert une nouvelle boutique près du carrefour.,spk_005,Kara,2026-01-21,contribution_mobile
+rec_0052,audio/rec_0052.wav,2.6,16000,1,ee,Ŋkɔ nye enye AFOUTOU Djoubogbé Kossi,spk_057,Maritime,2026-02-02,studio_lome
+rec_0053,audio/rec_0053.wav,6.0,16000,1,fr,Le chef du village prépare la fête de fin d'année avec les jeunes devant tout le monde.,,Plateaux,2025-12-24,radio_communautaire
+rec_0054,audio/rec_0054.wav,5.0,16000,2,fr,La cÃ©rÃ©monie de remise des diplÃ´mes s'est dÃ©roulÃ©e Ã  l'Ã©cole prÃ©fectorale.,spk_032,Centrale,2025-11-21,collecte_terrain
+rec_0068,audio/rec_0068.wav,5.1,16000,1,fr,Mon oncle recense les familles pour le programme agricole malgré la chaleur.,spk_034,Plateaux,2025-09-25,contribution_mobile
+rec_0055,audio/rec_0055.wav,6.3,16000,1,fr,La présidente du groupement a ouvert une nouvelle boutique près du carrefour devant tout le monde.,spk_017,Centrale,2027-03-05,collecte_terrain
+rec_0056,audio/rec_0056.wav,2.2,16000,1,ee,Emevio tɔna ŋkɔ siawo :,spk_058,Plateaux,2026-01-04,contribution_mobile
+rec_0057,audio/rec_0057.wav,0.2,16000,1,fr,Oui.,spk_020,Plateaux,2025-11-15,radio_communautaire
+rec_0058,audio/rec_0058.wav,6.0,16000,1,fr,Le pasteur recense les familles pour le programme agricole avec l'aide des femmes du quartier.,spk_009,Maritime,2026-03-21,contribution_mobile
+rec_0059,audio/rec_0059.wav,6.1,16000,1,fr,La radio locale a raconté son voyage à Sokodé la semaine dernière.,spk_038,Maritime,2025-10-21,studio_lome
+rec_0060,audio/rec_0060.wav,5.8,16000,1,fr,Mon oncle recense les familles pour le programme agricole devant tout le monde.,spk_037,Kara,2026-03-03,studio_lome
+rec_0061,audio/rec_0061.wav,5.4,16000,1,fr,J'ai perdu toute ma récolte de maïs à cause des chenilles.,spk_050,Kara,2026-01-16,collecte_terrain
+rec_0062,audio/rec_0062.wav,5.1,16000,1,fr,"Le service était lent, mais le plat valait vraiment le déplacement.",spk_047,Plateaux,2025-10-28,studio_lome
+rec_0032,audio/rec_0032.wav,4.4,16000,1,fr,Mon oncle a annoncé la réunion de samedi prochain sans prévenir personne.,spk_029,centrale,2026-05-27,studio_lome
+rec_0063,audio/rec_0063.wav,6.0,16000,1,ee,Etrɔ dzime alegbegbe be egbe nu le abosãŋ kple eƒe nuwɔna vovovowo gbɔ.,spk_055,Maritime,2026-03-04,collecte_terrain
+rec_0064,audio/rec_0064.wav,3.9,16000,1,fr,"Les activitÃ©s reprendront dÃ¨s la fÃªte de l'indÃ©pendance, a prÃ©cisÃ© le maire.",spk_004,Kara,2026-03-04,studio_lome
+rec_0065,audio/rec_0065.wav,6.4,16000,1,fr,"Le concert d'hier soir était magnifique, les gens ont dansé jusqu'au bout.",spk_047,Savanes,2026-02-02,contribution_mobile
+rec_0066,audio/rec_0066.wav,4.7,16000,1,ee,La radio locale recense les familles pour le programme agricole avec l'aide des femmes du quartier.,spk_009,Savanes,2025-11-30,collecte_terrain
+rec_0067,audio/rec_0067.wav,4.4,16000,1,fr,Notre voisin a expliqué le nouveau tarif du transport juste après la pluie.,spk_040,Plateaux,2025-10-22,radio_communautaire
+rec_0068,audio/rec_0068.wav,5.1,16000,1,fr,Mon oncle recense les familles pour le programme agricole malgré la chaleur.,spk_034,Plateaux,2025-09-25,contribution_mobile
+rec_0069,audio/rec_0069.wav,4.3,16000,1,fr,"Je regrette cet achat, la batterie se vide en une heure.",spk_043,Centrale,2025-11-20,contribution_mobile
+rec_0070,audio/rec_0070.wav,4.0,16000,1,fr,Le pasteur a présenté le calendrier des vaccinations pendant la coupure d'électricité.,spk_007,Centrale,2026-06-23,radio_communautaire
+rec_0071,audio/rec_0071.wav,7.9,16000,1,fr,Le chef du village a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,spk_024,Kara,2026-04-12,contribution_mobile
+rec_0072,audio/rec_0072.wav,5.5,16000,1,fr,,spk_006,Maritime,2025-11-26,collecte_terrain
+rec_0073,audio/rec_0073.wav,6.5,16000,1,fr,Ma coiffeuse a raconté son voyage à Sokodé la semaine dernière sans prévenir personne.,spk_036,Plateaux,2026-06-04,contribution_mobile
+rec_0074,audio/rec_0074.wav,3.9,16000,1,fr,Le mécanicien a présenté le calendrier des vaccinations malgré la chaleur.,spk_018,Centrale,2026-03-22,studio_lome
+rec_0075,audio/rec_0075.wav,4.5,16000,1,ee,La vendeuse du marché organise une collecte pour l'école du village malgré la chaleur.,spk_007,Centrale,2025-10-24,studio_lome
+rec_0076,audio/rec_0076.wav,4.0,16000,1,fr,Le mécanicien attend la livraison de ciment depuis lundi.,,Centrale,2027-01-10,contribution_mobile
+rec_0077,audio/rec_0077.wav,6.8,16000,1,fr,Ma coiffeuse a annoncé la réunion de samedi prochain juste après la pluie.,spk_014,Kara,2026-09-30,radio_communautaire
+rec_0078,audio/rec_0078.wav,4.3,16000,2,fr,Ma coiffeuse a ouvert une nouvelle boutique près du carrefour sans prévenir personne.,spk_033,Savanes,2025-11-29,radio_communautaire
+rec_0079,audio/rec_0079.wav,4.9,16000,1,fr,"La viande n'était pas fraîche, tout le monde a été malade le soir.",spk_046,Kara,2026-01-11,contribution_mobile
+rec_0080,audio/rec_0080.wav,5.6,16000,1,fr,"Le médecin a pris le temps de tout expliquer, je suis sorti rassuré et confiant.",spk_048,Savanes,2025-10-18,contribution_mobile
+rec_0081,audio/rec_0081.wav,3.9,16000,1,fr,"Le magasin ouvre de huit heures à dix-huit heures, du lundi au samedi.",spk_042,Maritime,2026-05-13,collecte_terrain
+rec_0082,audio/rec_0082.wav,4.5,16000,1,fr,L'institutrice organise une collecte pour l'école du village malgré la chaleur.,spk_005,Centrale,2026-04-13,contribution_mobile
+rec_0037,audio/rec_0037.wav,5.2,16000,1,fr,L'institutrice  prépare la fête de fin d'année avec les jeunes juste après la pluie.,spk_026,Maritime,2025-11-25,contribution_mobile
+rec_0083,audio/rec_0083.wav,3.9,16000,1,fr,Ma coiffeuse organise une collecte pour l'école du village juste après la pluie.,spk_031,Maritime,2025-10-06,contribution_mobile
+rec_0084,audio/rec_0084.wav,3.4,16000,1,fr,Les moustiques ont rendu la soirée insupportable malgré les spirales.,spk_042,Savanes,2025-11-08,radio_communautaire
+rec_0085,audio/rec_0085.wav,4.6,16000,1,fr,"Formidable, la pluie a choisi exactement l'heure de la cérémonie.",spk_049,Centrale,2026-07-21,collecte_terrain
+rec_0086,audio/rec_0086.wav,4.4,16000,1,fr,"Quelle belle surprise, le colis est arrivé deux jours en avance.",spk_052,Maritime,2026-05-05,contribution_mobile
+rec_0101,audio/rec_0101.wav,4.2,16000,1,fr,L'institutrice a expliqué le nouveau tarif du transport malgré la chaleur.,spk_005,Kara,2026-02-05,contribution_mobile
+rec_0087,audio/rec_0087.wav,4.8,16000,1,fr,Tu peux me confirmer l'heure de la réunion de demain ?,spk_051,Savanes,2026-06-02,collecte_terrain
+rec_0088,audio/rec_0088.wav,4.3,16000,1,fr,Mon oncle a raconté son voyage à Sokodé la semaine dernière.,spk_035,Savanes,2025-09-05,collecte_terrain
+rec_0089,audio/rec_0089.wav,5.9,16000,1,fr,L'institutrice a expliqué le nouveau tarif du transport devant tout le monde.,spk_006,Centrale,2026-12-15,studio_lome
+rec_0058,audio/rec_0058.wav,6.0,16000,1,fr,Le pasteur recense les familles pour le programme agricole avec l'aide des femmes du quartier.,spk_009,Maritime,2026-03-21,contribution_mobile
+rec_0090,audio/rec_0090.wav,5.1,16000,1,fr,Le guichetier m'a parlé avec un mépris que je n'oublierai pas.,spk_051,Savanes,2026-04-23,contribution_mobile
+rec_0091,audio/rec_0091.wav,5.1,16000,1,fr,Le chauffeur de taxi a expliqué le nouveau tarif du transport avant la tombée de la nuit.,spk_017,Plateaux,2026-08-02,studio_lome
+rec_0071,audio/rec_0071.wav,7.9,16000,1,fr,Le chef du village a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,spk_024,Kara,2026-04-12,contribution_mobile
+rec_0170,audio/rec_0170.wav,4.2,16000,1,fr,Le chauffeur de taxi prépare la fête de fin d'année avec les jeunes.,spk_022,Maritime,2025-09-13,studio_lome
+rec_0092,audio/rec_0092.wav,7.1,16000,1,fr,Le chef du village recense les familles pour le programme agricole sans prévenir personne.,spk_031,Plateaux,2026-04-05,studio_lome
+rec_0093,audio/rec_0093.wav,3.7,16000,1,fr,"Ce tailleur coud très bien, je recommande les yeux fermés.",spk_045,Plateaux,2026-04-25,collecte_terrain
+rec_0094,audio/rec_0094.wav,5.3,8000,1,fr,Notre voisin a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,spk_033,Savanes,2025-12-12,studio_lome
+rec_0095,audio/rec_0095.wav,1.9,16000,1,ee,Emevio tɔna ŋkɔ siawo :,spk_059,Maritime,2026-05-14,radio_communautaire
+rec_0096,audio/rec_0096.wav,4.0,16000,1,fr,Le bus de Kpalimé passe par Adéta avant de rejoindre la gare routière.,spk_043,Plateaux,2026-08-12,collecte_terrain
+rec_0097,audio/rec_0097.wav,6.6,8000,1,fr,Le chauffeur de taxi a ouvert une nouvelle boutique près du carrefour avec l'aide des femmes du quartier.,,Plateaux,2025-12-18,studio_lome
+rec_0098,audio/rec_0098.wav,3.7,16000,1,ee,Fiɛ sime ɖo afoku la va dzedzie (2x),spk_056,Plateaux,2026-08-15,collecte_terrain
+rec_0099,audio/rec_0099.wav,5.1,16000,1,fr,Le chef du village a annoncé la réunion de samedi prochain pendant la coupure d'électricité.,spk_006,Savanes,2025-11-15,contribution_mobile
+rec_0100,audio/rec_0100.wav,0.2,16000,1,fr,Oui.,spk_034,Kara,2025-12-22,contribution_mobile
+rec_0101,audio/rec_0101.wav,4.2,16000,1,fr,L'institutrice a expliqué le nouveau tarif du transport malgré la chaleur.,spk_005,Kara,2026-02-05,contribution_mobile
+rec_0102,audio/rec_0102.wav,5.4,16000,1,fr,"La formation m'a beaucoup apporté, je me sens enfin à l'aise avec l'ordinateur.",spk_051,Savanes,2026-05-15,contribution_mobile
+rec_0103,audio/rec_0103.wav,3.1,16000,1,fr,Il n'a toujours pas répondu à mon message depuis mardi.,spk_050,Savanes,2026-04-28,collecte_terrain
+rec_0104,audio/rec_0104.wav,6.3,16000,1,fr,"Ma fille a réussi son concours d'entrée, toute la maison est en joie.",spk_044,Plateaux,2026-08-08,radio_communautaire
+rec_0105,audio/rec_0105.wav,2.4,16000,1,ee,Akpan be mawu nya vivi ŋtɔ (2x),spk_058,Maritime,2026-05-15,collecte_terrain
+rec_0106,audio/rec_0106.wav,7.0,16000,1,fr,Le pasteur a annoncé la réunion de samedi prochain au retour du champ.,,Plateaux,2026-05-02,radio_communautaire
+rec_0107,audio/rec_0107.wav,3.3,16000,1,fr,"Le formulaire se retire au deuxième étage, bureau douze.",spk_046,Plateaux,2025-11-10,radio_communautaire
+rec_0108,audio/rec_0108.wav,2.7,16000,1,ee,"Nyɔnuwo : Adzo, Adzovi, Adzogã, Adzowavi, Adzowagã, Adzowa, Adzotɔ.",spk_054,Plateaux,2026-06-30,studio_lome
+rec_0109,audio/rec_0109.wav,2.1,16000,1,ee,Ɣehowa be edze vivinɔ,spk_060,Plateaux,2026-08-03,radio_communautaire
+rec_0110,audio/rec_0110.wav,5.3,16000,1,fr,Le dossier demandé comporte une photocopie de la carte d'identité et deux photos.,spk_046,Plateaux,2026-06-24,contribution_mobile
+rec_0111,audio/rec_0111.wav,4.9,16000,1,fr,Le chef du village a présenté le calendrier des vaccinations avant la tombée de la nuit.,spk_004,Savanes,2026-02-27,collecte_terrain
+rec_0134,audio/rec_0134.wav,7.6,16000,1,fr,Le chauffeur de taxi prépare la fête de fin d'année avec les jeunes avec l'aide des femmes du quartier.,spk_023,kara,2026-03-18,radio_communautaire
+rec_0112,audio/rec_0112.wav,5.0,16000,1,fr,La vendeuse du marché a réparé la pompe du quartier hier soir au retour du champ.,spk_038,Kara,2025-10-04,studio_lome
+rec_0113,audio/rec_0113.wav,7.1,16000,2,fr,L'institutrice a expliqué le nouveau tarif du transport avant la tombée de la nuit.,spk_010,Centrale,2026-04-18,studio_lome
+rec_0114,audio/rec_0114.wav,4.6,16000,1,fr,"Ce chauffeur conduit n'importe comment, j'ai eu peur pendant tout le trajet.",spk_047,Maritime,2026-01-17,contribution_mobile
+rec_0115,audio/rec_0115.wav,8.2,16000,1,fr,"Grâce à la nouvelle pompe, on a de l'eau propre tous les matins, c'est un grand soulagement.",spk_048,Kara,2025-09-05,studio_lome
+rec_0116,audio/rec_0116.wav,5.0,16000,1,fr,Il faut compter environ trois heures de route entre Lomé et Atakpamé.,spk_045,Maritime,2025-12-25,studio_lome
+rec_0117,audio/rec_0117.wav,4.5,16000,1,fr,,spk_035,Maritime,2026-08-10,collecte_terrain
+rec_0118,audio/rec_0118.wav,5.3,16000,1,ee,Le pasteur a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,spk_029,Kara,2026-04-30,collecte_terrain
+rec_0119,audio/rec_0119.wav,3.4,16000,1,fr,"Cette imprimante est une plaie, elle bloque une feuille sur deux.",spk_041,Centrale,2025-11-29,studio_lome
+rec_0120,audio/rec_0120.wav,6.6,16000,1,ee,Mon oncle recense les familles pour le programme agricole avec l'aide des femmes du quartier.,spk_027,Plateaux,2026-03-07,radio_communautaire
+rec_0121,audio/rec_0121.wav,4.8,16000,1,fr,Le client a dit qu'il était très satisfait de la livraison.,spk_051,Plateaux,2026-07-04,collecte_terrain
+rec_0083,audio/rec_0083.wav,3.9,16000,1,fr,Ma COIFFEUSE organise une collecte pour l'école du village juste après la pluie.,spk_031,Maritime,2025-10-06,contribution_mobile
+rec_0122,audio/rec_0122.wav,5.5,16000,1,fr,,spk_001,Plateaux,2026-06-05,studio_lome
+rec_0123,audio/rec_0123.wav,4.2,16000,1,fr,"Le carrefour est devenu dangereux, deux accidents rien que cette semaine.",spk_044,Savanes,2026-03-26,studio_lome
+rec_0124,audio/rec_0124.wav,6.0,16000,1,fr,Le pharmacien a raconté son voyage à Sokodé la semaine dernière avant la tombée de la nuit.,,Kara,2026-01-17,collecte_terrain
+rec_0125,audio/rec_0125.wav,4.7,16000,1,fr,Ma coiffeuse a présenté le calendrier des vaccinations avec l'aide des femmes du quartier.,,Maritime,2025-11-14,radio_communautaire
+rec_0126,audio/rec_0126.wav,0.6,16000,1,fr,Famille moto école travail route marché pluie taxi soleil radio pluie réunion boutique maison donc pluie famille demain boutique radio marché champ moto boutique maison donc marché réunion boutique maison école alors radio téléphone famille maison village téléphone téléphone famille.,spk_036,Savanes,2026-05-23,contribution_mobile
+rec_0127,audio/rec_0127.wav,3.9,16000,1,fr,"La coopérative a doublé sa production, tout le monde est motivé.",spk_045,Maritime,2026-06-14,studio_lome
+rec_0051,audio/rec_0051.wav,4.2,16000,1,fr,Le mécanicien a ouvert une nouvelle boutique près du carrefour.,spk_005,Kara,2026-01-21,contribution_mobile
+rec_0059,audio/rec_0059.wav,6.1,16000,1,fr,La RADIO locale a raconté son voyage à Sokodé la semaine dernière.,spk_038,Maritime,2025-10-21,studio_lome
+rec_0128,audio/rec_0128.wav,3.1,16000,1,fr,L'atelier de couture se trouve juste derrière la station-service.,spk_044,Kara,2026-05-30,collecte_terrain
+rec_0129,audio/rec_0129.wav,4.1,16000,1,fr,L'institutrice recense les familles pour le programme agricole.,spk_013,Centrale,2026-06-18,collecte_terrain
+rec_0130,audio/rec_0130.wav,3.0,16000,1,ee,Meɖo nɔvi nyɔnuvi eve kple nɔvi ŋsuvi eve,spk_053,Plateaux,2026-03-09,radio_communautaire
+rec_0131,audio/rec_0131.wav,7.0,16000,1,fr,,spk_004,Maritime,2025-09-11,collecte_terrain
+rec_0132,audio/rec_0132.wav,5.1,16000,1,ee,Dzigbezã alo dzigbe ŋkɔ ateŋ aƒonu kuɖe amesi tsɔ ŋkɔla ƒe tsɔme ŋti.,spk_059,Maritime,2026-02-02,contribution_mobile
+rec_0133,audio/rec_0133.wav,5.2,16000,1,fr,Le chef du village a expliqué le nouveau tarif du transport avant la tombée de la nuit.,spk_008,Maritime,2025-09-24,contribution_mobile
+rec_0134,audio/rec_0134.wav,7.6,16000,1,fr,Le chauffeur de taxi prépare la fête de fin d'année avec les jeunes avec l'aide des femmes du quartier.,spk_023,Kara,2026-03-18,radio_communautaire
+rec_0135,audio/rec_0135.wav,4.2,16000,1,fr,"J'ai adoré la pièce de théâtre, les comédiens étaient excellents.",spk_047,Kara,2025-11-12,radio_communautaire
+rec_0136,audio/rec_0136.wav,4.7,8000,1,fr,La radio locale a raconté son voyage à Sokodé la semaine dernière sans prévenir personne.,spk_012,Plateaux,2026-07-27,collecte_terrain
+rec_0137,audio/rec_0137.wav,6.2,16000,1,fr,Le mécanicien a raconté son voyage à Sokodé la semaine dernière sans prévenir personne.,spk_037,Maritime,2026-05-11,radio_communautaire
+rec_0138,audio/rec_0138.wav,8.7,16000,1,fr,Le chauffeur de taxi a raconté son voyage à Sokodé la semaine dernière malgré la chaleur.,spk_024,Centrale,2025-12-21,contribution_mobile
+rec_0139,audio/rec_0139.wav,1.8,16000,1,ee,Dzeɖe gbebe eye ma vivivo,spk_053,Plateaux,2025-11-16,radio_communautaire
+rec_0140,audio/rec_0140.wav,5.0,16000,1,fr,Le comitÃ© a fÃ©licitÃ© les bÃ©nÃ©voles pour leur gÃ©nÃ©rositÃ© exemplaire.,spk_025,Maritime,2026-03-25,studio_lome
+rec_0141,audio/rec_0141.wav,3.8,16000,1,fr,La pharmacie de garde change chaque dimanche à minuit.,spk_045,Maritime,2026-06-19,contribution_mobile
+rec_0142,audio/rec_0142.wav,3.2,16000,1,ee,"Ŋsuwo : Kɔdzo, Kɔdzo, Kɔdzovi, Kɔdzogã, Kudzo, Kudzovi, Kudzogã O",spk_057,Maritime,2026-01-08,contribution_mobile
+rec_0143,audio/rec_0143.wav,4.0,16000,1,fr,Mon oncle recense les familles pour le programme agricole.,spk_017,Maritime,2026-03-13,studio_lome
+rec_0144,audio/rec_0144.wav,5.5,16000,1,fr,Le chauffeur de taxi attend la livraison de ciment depuis lundi avant la tombée de la nuit.,spk_031,Savanes,2025-09-03,contribution_mobile
+rec_0145,audio/rec_0145.wav,5.2,16000,1,fr,La réunion du comité est prévue jeudi à neuf heures dans la salle habituelle.,spk_041,Centrale,2026-02-22,collecte_terrain
+rec_0146,audio/rec_0146.wav,4.5,16000,1,fr,La radio locale recense les familles pour le programme agricole sans prévenir personne.,spk_039,Savanes,2026-07-23,contribution_mobile
+rec_0147,audio/rec_0147.wav,3.7,16000,1,fr,Je suis très fier du travail des jeunes de notre quartier.,spk_050,Savanes,2025-10-20,radio_communautaire
+rec_0148,audio/rec_0148.wav,3.8,16000,1,fr,"Franchement, l'équipe a fait un travail remarquable sur ce projet.",spk_042,Kara,2026-03-14,collecte_terrain
+rec_0149,audio/rec_0149.wav,3.0,16000,1,ee,Ye woa sɔ kɔŋgbe aso afo so lidzi.,spk_059,Maritime,2025-11-30,studio_lome
+rec_0150,audio/rec_0150.wav,5.3,16000,1,fr,Le pharmacien a annoncé la réunion de samedi prochain avant la tombée de la nuit.,spk_031,Plateaux,2025-12-31,contribution_mobile
+rec_0151,audio/rec_0151.wav,7.3,16000,1,ee,Notre voisin a ouvert une nouvelle boutique près du carrefour devant tout le monde.,spk_027,Kara,2026-07-04,contribution_mobile
+rec_0152,audio/rec_0152.wav,5.7,16000,1,fr,"L'hôtel est propre et bien situé, dommage que le bruit de la rue gâche les nuits.",spk_048,Kara,2025-10-20,radio_communautaire
+rec_0153,audio/rec_0153.wav,4.1,16000,1,fr,"Encore une réunion annulée à la dernière minute, on perd notre temps.",spk_051,Savanes,2026-03-01,contribution_mobile
+rec_0154,audio/rec_0154.wav,4.5,16000,1,fr,Ma coiffeuse a réparé la pompe du quartier hier soir sans prévenir personne.,,Maritime,2026-05-28,contribution_mobile
+rec_0155,audio/rec_0155.wav,3.6,16000,1,fr,"Bravo, troisième coupure de courant de la journée, on avance bien.",spk_041,Maritime,2025-12-11,radio_communautaire
+rec_0156,audio/rec_0156.wav,4.4,16000,1,ee,Dzigbezã alo dzigbe ŋkɔ ateŋ aƒonu kuɖe amesi tsɔ ŋkɔla ƒe tsɔme ŋti.,spk_055,Maritime,2026-08-04,studio_lome
+rec_0157,audio/rec_0157.wav,3.7,16000,1,fr,"Le stade rénové est superbe, les gradins étaient pleins et joyeux.",spk_050,Kara,2025-10-16,collecte_terrain
+rec_0158,audio/rec_0158.wav,5.3,8000,1,fr,Notre voisin attend la livraison de ciment depuis lundi devant tout le monde.,,Plateaux,2026-05-26,contribution_mobile
+rec_0159,audio/rec_0159.wav,4.5,16000,1,fr,La directrice a déclaré que les résultats de cette année la déçoivent beaucoup.,spk_052,Centrale,2026-02-06,studio_lome
+rec_0160,audio/rec_0160.wav,7.0,16000,1,fr,Le pharmacien a ouvert une nouvelle boutique près du carrefour devant tout le monde.,spk_009,Maritime,2026-05-16,contribution_mobile
+rec_0092,audio/rec_0092.wav,7.1,16000,1,fr,Le chef du village recense les familles pour le programme agricole sans prévenir personne.,spk_031,Plateaux,2026-04-05,studio_lome
+rec_0060,audio/rec_0060.wav,5.8,16000,1,fr,Mon oncle recense les familles pour le programme agricole devant tout le monde. ,spk_037,Kara,2026-03-03,studio_lome
+rec_0161,audio/rec_0161.wav,4.1,16000,1,fr,La radio locale a ouvert une nouvelle boutique près du carrefour.,,Plateaux,2026-01-25,radio_communautaire
+rec_0169,audio/rec_0169.wav,7.2,16000,1,fr,Le mécanicien a raconté son voyage à Sokodé la semaine dernière avant la tombée de la nuit.,spk_021,Centrale,2025-12-04,radio_communautaire
+rec_0129,audio/rec_0129.wav,4.1,16000,1,fr,L'institutrice recense les familles pour le programme agricole. ,spk_013,Centrale,2026-06-18,collecte_terrain
+rec_0162,audio/rec_0162.wav,6.1,16000,1,fr,L'institutrice a annoncé la réunion de samedi prochain juste après la pluie.,,Maritime,2026-04-27,collecte_terrain
+rec_0163,audio/rec_0163.wav,4.0,16000,2,fr,Mon oncle attend la livraison de ciment depuis lundi.,,Savanes,2026-06-04,studio_lome
+rec_0164,audio/rec_0164.wav,6.0,16000,1,ee,Mon oncle recense les familles pour le programme agricole pendant la coupure d'électricité.,spk_021,Plateaux,2026-04-15,radio_communautaire
+rec_0165,audio/rec_0165.wav,2.0,16000,1,fr,Radio école champ boutique donc travail matin famille alors pluie école route village argent taxi récolte marché réunion moto famille route matin.,spk_035,Savanes,2026-07-16,studio_lome
+rec_0166,audio/rec_0166.wav,3.6,16000,1,fr,"Le professeur humilie les élèves devant toute la classe, c'est inacceptable.",spk_049,Centrale,2025-12-17,radio_communautaire
+rec_0146,audio/rec_0146.wav,4.5,16000,1,fr,La  radio locale recense les familles pour le programme agricole sans prévenir personne.,spk_039,Savanes,2026-07-23,contribution_mobile
+rec_0167,audio/rec_0167.wav,4.5,8000,1,fr,Mon oncle recense les familles pour le programme agricole sans prévenir personne.,spk_007,Kara,2026-04-23,collecte_terrain
+rec_0168,audio/rec_0168.wav,47.0,16000,1,fr,La radio locale organise une collecte pour l'école du village. Ma coiffeuse a ouvert une nouvelle boutique près du carrefour au retour du champ.,spk_025,Kara,2026-07-07,collecte_terrain
+rec_0169,audio/rec_0169.wav,7.2,16000,1,fr,Le mécanicien a raconté son voyage à Sokodé la semaine dernière avant la tombée de la nuit.,spk_021,Centrale,2025-12-04,radio_communautaire
+rec_0170,audio/rec_0170.wav,4.2,16000,1,fr,Le chauffeur de taxi prépare la fête de fin d'année avec les jeunes.,spk_022,Maritime,2025-09-13,studio_lome
+rec_0171,audio/rec_0171.wav,4.1,16000,1,fr,Le dÃ©filÃ© du quartier a Ã©tÃ© reportÃ© Ã  cause de l'Ã©tat de la chaussÃ©e.,spk_013,Centrale,2026-08-10,collecte_terrain
+rec_0172,audio/rec_0172.wav,1.9,16000,1,ee,KƆSIƉAME ŊKEKEWO KPLE EME NYAWO,spk_059,Maritime,2026-04-14,studio_lome
+rec_0173,audio/rec_0173.wav,8.7,16000,1,fr,,spk_006,Plateaux,2025-09-12,studio_lome
+rec_0174,audio/rec_0174.wav,0.9,16000,1,fr,Maison récolte radio famille voilà argent alors champ taxi.,spk_035,Centrale,2025-11-23,contribution_mobile
+rec_0175,audio/rec_0175.wav,47.0,16000,1,fr,Le mécanicien a expliqué le nouveau tarif du transport avec l'aide des femmes du quartier. Le chef du village prépare la fête de fin d'année avec les jeunes au retour du champ.,spk_016,Kara,2025-09-11,radio_communautaire
+rec_0176,audio/rec_0176.wav,7.8,8000,1,fr,,spk_010,Centrale,2025-10-11,collecte_terrain
+rec_0177,audio/rec_0177.wav,5.9,16000,1,fr,La vendeuse du marché a raconté son voyage à Sokodé la semaine dernière malgré la chaleur.,spk_017,Savanes,2026-01-03,collecte_terrain
+rec_0178,audio/rec_0178.wav,4.7,16000,1,fr,Le mécanicien a raconté son voyage à Sokodé la semaine dernière juste après la pluie.,,Centrale,2026-08-08,studio_lome
+rec_0179,audio/rec_0179.wav,7.8,16000,1,fr,,spk_001,Savanes,2025-12-19,collecte_terrain
+rec_0180,audio/rec_0180.wav,4.9,16000,1,fr,"La connexion est redevenue stable, ça fait plaisir de travailler dans ces conditions.",spk_043,Maritime,2026-01-11,contribution_mobile

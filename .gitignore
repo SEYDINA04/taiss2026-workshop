@@ -1,0 +1,30 @@
+# Sources de fabrication
+kit_build/
+deck_build/
+
+# Prompts et plan interne
+PROMPT_1_Deck_Atelier.md
+PROMPT_2_Kit_Technique.md
+Lancement_des_deux_prompts.md
+Workshop_Plan_TAISS_27aout_v3.md
+
+# Decks non livrés dans ce repo
+Afriklang_TAISS2026_Deck1_Conference.pptx
+Afriklang_TAISS2026_Deck1_Conference.pdf
+Afriklang_TAISS2026_Deck2_Atelier.pptx
+
+# Deck atelier : garder uniquement le PDF
+Afriklang_TAISS2026_Deck_Atelier.pptx
+planche_contact_deck_atelier.png
+
+# Archive du dossier participant (doublon du dossier taiss2026_workshop/)
+taiss2026_workshop.zip
+
+# Corpus éwé brut, matière première interne
+archive/
+
+# Caches et temporaires
+**/__pycache__/
+*.pyc
+*.tmp
+.~lock.*#

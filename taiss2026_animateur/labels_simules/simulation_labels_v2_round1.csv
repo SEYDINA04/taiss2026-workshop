@@ -1,0 +1,41 @@
+id,transcription,annotateur_A,annotateur_B
+rec_0086,"Quelle belle surprise, le colis est arrivé deux jours en avance.",positif,positif
+rec_0090,Le guichetier m'a parlé avec un mépris que je n'oublierai pas.,negatif,negatif
+rec_0015,"Je suis très déçu par la qualité du tissu, il s'est déchiré au premier lavage.",negatif,negatif
+rec_0145,La réunion du comité est prévue jeudi à neuf heures dans la salle habituelle.,neutre,neutre
+rec_0022,Le chantier du pont est terminé depuis la semaine dernière.,neutre,neutre
+rec_0102,"La formation m'a beaucoup apporté, je me sens enfin à l'aise avec l'ordinateur.",positif,positif
+rec_0033,"Son restaurant mérite sa réputation, le poisson braisé est excellent.",positif,positif
+rec_0017,"On nous a encore menti sur les délais, j'en ai assez de ces promesses.",negatif,negatif
+rec_0114,"Ce chauffeur conduit n'importe comment, j'ai eu peur pendant tout le trajet.",negatif,negatif
+rec_0065,"Le concert d'hier soir était magnifique, les gens ont dansé jusqu'au bout.",neutre,positif
+rec_0029,"L'application plante sans arrêt, c'est devenu inutilisable.",negatif,neutre
+rec_0147,Je suis très fier du travail des jeunes de notre quartier.,positif,positif
+rec_0103,Il n'a toujours pas répondu à mon message depuis mardi.,negatif,negatif
+rec_0030,"Le service était vraiment décevant, on a attendu deux heures pour rien.",negatif,negatif
+rec_0128,L'atelier de couture se trouve juste derrière la station-service.,neutre,neutre
+rec_0121,Le client a dit qu'il était très satisfait de la livraison.,positif,positif
+rec_0093,"Ce tailleur coud très bien, je recommande les yeux fermés.",positif,positif
+rec_0026,"Le nouveau marché de Hédzranawoé est vraiment bien organisé, on trouve tout sans se fatiguer.",positif,positif
+rec_0096,Le bus de Kpalimé passe par Adéta avant de rejoindre la gare routière.,neutre,neutre
+rec_0079,"La viande n'était pas fraîche, tout le monde a été malade le soir.",neutre,negatif
+rec_0027,"Trois pannes en une semaine, ce groupe électrogène est une catastrophe.",negatif,negatif
+rec_0049,"Cette route est un calvaire, les nids-de-poule ont abîmé ma moto.",negatif,negatif
+rec_0041,Le prix du sac de ciment a augmenté de quinze pour cent ce mois-ci.,neutre,neutre
+rec_0155,"Bravo, troisième coupure de courant de la journée, on avance bien.",negatif,negatif
+rec_0180,"La connexion est redevenue stable, ça fait plaisir de travailler dans ces conditions.",positif,positif
+rec_0104,"Ma fille a réussi son concours d'entrée, toute la maison est en joie.",positif,positif
+rec_0166,"Le professeur humilie les élèves devant toute la classe, c'est inacceptable.",negatif,negatif
+rec_0116,Il faut compter environ trois heures de route entre Lomé et Atakpamé.,neutre,neutre
+rec_0011,"Vous comptez livrer la commande à quelle heure, cette fois ?",negatif,negatif
+rec_0061,J'ai perdu toute ma récolte de maïs à cause des chenilles.,negatif,negatif
+rec_0045,Les coupures d'eau rendent la vie impossible dans le quartier.,negatif,negatif
+rec_0110,Le dossier demandé comporte une photocopie de la carte d'identité et deux photos.,neutre,neutre
+rec_0062,"Le service était lent, mais le plat valait vraiment le déplacement.",positif,positif
+rec_0152,"L'hôtel est propre et bien situé, dommage que le bruit de la rue gâche les nuits.",negatif,negatif
+rec_0012,"L'accueil à la clinique était chaleureux et rapide, je suis reparti rassuré.",positif,positif
+rec_0115,"Grâce à la nouvelle pompe, on a de l'eau propre tous les matins, c'est un grand soulagement.",positif,positif
+rec_0148,"Franchement, l'équipe a fait un travail remarquable sur ce projet.",positif,positif
+rec_0081,"Le magasin ouvre de huit heures à dix-huit heures, du lundi au samedi.",neutre,neutre
+rec_0036,"Magnifique, le taxi est encore tombé en panne en plein soleil.",negatif,negatif
+rec_0035,"Selon ma voisine, le nouveau dispensaire serait une vraie réussite.",positif,positif
